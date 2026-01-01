@@ -1,0 +1,8 @@
+{
+	"version": "1.0.0",
+	"name": "Special",
+	"description": "special",
+	"dependencies": {
+		"ws": "8.15.1"
+	}
+}
